@@ -1,0 +1,23 @@
+   Unnamed: 0    Unnamed: 1  ...    Unnamed: 102    Unnamed: 103
+0         NaN           NaN  ...             NaN             NaN
+1         NaN           NaN  ...             NaN             NaN
+2         NaN           NaN  ...             NaN             NaN
+3         NaN           NaN  ...             NaN             NaN
+4         NaN           NaN  ...             NaN             NaN
+5         NaN           NaN  ...             NaN             NaN
+6         NaN           NaN  ...             NaN             NaN
+7         NaN           NaN  ...             NaN             NaN
+8         NaN           NaN  ...             NaN             NaN
+9         NaN           NaN  ...             NaN             NaN
+10      順番No.          発行部門  ...             NaN             NaN
+11         No  Issuing Dept  ...             NaN             NaN
+12          1          0052  ...             NaN             NaN
+13        NaN          0052  ...  62735026120090  62735026120090
+14        NaN          0052  ...             NaN             NaN
+15          2          0052  ...             NaN             NaN
+16        NaN          0052  ...             NaN             NaN
+17        NaN          0052  ...             NaN             NaN
+18          3          0051  ...  24120026050001             NaN
+19        NaN          0051  ...  24120026050053             NaN
+
+[20 rows x 104 columns]

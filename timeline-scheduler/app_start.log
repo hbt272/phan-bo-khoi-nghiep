@@ -1,0 +1,40 @@
+
+> timeline-scheduler@1.0.0 start
+> concurrently "npm run start:server" "npm run start:client"
+
+[0]
+[0] > timeline-scheduler@1.0.0 start:server
+[0] > cd server && npm start
+[0]
+[1]
+[1] > timeline-scheduler@1.0.0 start:client
+[1] > cd client && npm start
+[1]
+[0]
+[0] > server@1.0.0 start
+[0] > tsx src/index.ts
+[0]
+[1]
+[1] > client@0.1.0 start
+[1] > react-scripts start
+[1]
+[0] Server running on port 3001
+[1] (node:67383) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+[1] (Use `node --trace-deprecation ...` to show where the warning was created)
+[1] (node:67383) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+[1] Starting the development server...
+[1]
+[1] Compiled successfully!
+[1]
+[1] You can now view client in the browser.
+[1]
+[1]   Local:            http://localhost:3000
+[1]   On Your Network:  http://192.168.0.2:3000
+[1]
+[1] Note that the development build is not optimized.
+[1] To create a production build, use npm run build.
+[1]
+[1] webpack compiled successfully
+[1] Files successfully emitted, waiting for typecheck results...
+[1] Issues checking in progress...
+[1] No issues found.

@@ -1,0 +1,7 @@
+      0             1    ...             102             103
+11  順番No.          発行部門  ...             NaN             NaN
+12     No  Issuing Dept  ...             NaN             NaN
+13      1          0052  ...             NaN             NaN
+14    NaN          0052  ...  62735026120090  62735026120090
+
+[4 rows x 104 columns]
